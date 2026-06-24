@@ -42,17 +42,6 @@
 | AI 工作流 | Prompt Engineering, 代码审查, 文档生成, Agent 工作流, AI 素材生成 |
 | 产品思维 | 小游戏, IAA, 社交增长, 数据验证, 可信结算 |
 
-## GitHub 动态
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ri3ck8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3ck8&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ri3ck8&theme=tokyo-night&hide_border=true&area=true" alt="贡献图" />
-</p>
-
 ## 最近在探索
 
 - 基于 **Netty + Protobuf + Spring Boot + Java 21** 的轻量游戏服务端框架。
