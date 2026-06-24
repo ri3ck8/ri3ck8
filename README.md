@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm a Game Server Engineer
 
-<!--
-**ri3ck8/ri3ck8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java 游戏服务端开发者，长期关注高并发服务端架构、业务中台、自动化工具链，以及 AI 时代下的软件研发方式重塑。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 专注 Java 游戏服务端、实时通信、业务中台和线上稳定性建设。
+- 熟悉游戏产品从研发、发行到运营的完整链路，习惯在架构设计、性能优化、成本控制和业务落地之间做平衡。
+- 偏好用清晰的协议、可维护的框架、自动化工具和 AI 工作流降低复杂系统的协作成本。
+- 正在积极拥抱 AI，把它作为产品策划、方案设计、代码生成、文档沉淀、测试验证和美术素材生产的工程伙伴。
+
+## 技术方向
+
+- **语言与框架**：Java, Golang, Python, C#, Spring Boot, Netty, Dubbo
+- **游戏服务端**：WebSocket/TCP, Protobuf, 消息路由, 战斗校验, 跨服玩法, GM/合服工具
+- **基础设施**：Redis, MySQL, PostgreSQL, TimescaleDB, ELK, Kong, Kubernetes, DevOps
+- **架构实践**：高并发通信、服务拆分、容器化迁移、数据中台、自动开服、压测工具
+- **AI 实践**：AI 辅助编码、Prompt Engineering、代码审查、文档生成、研发知识库、Agent 工作流、AI 素材生成
+
+## 我关注的方向
+
+- 构建更轻量、更易扩展的游戏服务端框架，让业务开发更接近“声明协议 + 编写逻辑”。
+- 将 AI 引入日常研发流程，用于拆解需求、生成脚手架、补充测试、沉淀技术文档、生成美术资产和复盘线上问题。
+- 用自动化和可观测性提升研发反馈速度，减少重复沟通和人工操作。
+- 探索小团队如何借助 AI 获得更强的产品、技术和内容产出能力。
+
+## 最近在做
+
+- 维护和打磨基于 **Netty + Protobuf + Spring Boot + Java 21** 的休闲游戏服务器框架。
+- 探索更轻量的游戏服务端开发体验：注解式消息处理、自动生成消息号、虚拟线程用户队列、共享队列和 Redis 分布式队列。
+- 探索 **AI 驱动、社交裂变型微信小游戏**：用 AI 辅助完成玩法拆解、策划配置、接口契约、QA 清单、视觉规范和素材生成。
+- 关注轻量后端、增长机制、数据验证和可信结算在小游戏中的落地方式。
+
+## 联系方式
+
+- Email: 985274229@qq.com
