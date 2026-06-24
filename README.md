@@ -1,36 +1,73 @@
-# Hi, I'm a Game Server Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111827,45:2563EB,100:22C55E&text=Game%20Server%20Engineer&fontColor=FFFFFF&fontSize=34&fontAlignY=35&animation=fadeIn" alt="header" />
+</p>
 
-Java 游戏服务端开发者，长期关注高并发服务端架构、业务中台、自动化工具链，以及 AI 时代下的软件研发方式重塑。
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=3B82F6&center=true&vCenter=true&width=760&lines=Java+%7C+Netty+%7C+Protobuf+%7C+Cloud+Native;Game+Backend+%2B+AI-assisted+Development;Building+lightweight+systems+for+fast+iteration" alt="typing intro" />
+</p>
 
-## 关于我
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,python,cs,js,ts,nodejs,docker,kubernetes,redis,mysql,postgres,linux,git,github" alt="tech stack" />
+</p>
 
-- 专注 Java 游戏服务端、实时通信、业务中台和线上稳定性建设。
-- 熟悉游戏产品从研发、发行到运营的完整链路，习惯在架构设计、性能优化、成本控制和业务落地之间做平衡。
-- 偏好用清晰的协议、可维护的框架、自动化工具和 AI 工作流降低复杂系统的协作成本。
-- 正在积极拥抱 AI，把它作为产品策划、方案设计、代码生成、文档沉淀、测试验证和美术素材生产的工程伙伴。
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Backend-real--time%20systems-2563EB?style=for-the-badge" alt="game backend" />
+  <img src="https://img.shields.io/badge/AI%20Native-agent%20workflow-22C55E?style=for-the-badge" alt="ai native" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-devops%20mindset-F59E0B?style=for-the-badge" alt="cloud native" />
+</p>
 
-## 技术方向
+## About
 
-- **语言与框架**：Java, Golang, Python, C#, Spring Boot, Netty, Dubbo
-- **游戏服务端**：WebSocket/TCP, Protobuf, 消息路由, 战斗校验, 跨服玩法, GM/合服工具
-- **基础设施**：Redis, MySQL, PostgreSQL, TimescaleDB, ELK, Kong, Kubernetes, DevOps
-- **架构实践**：高并发通信、服务拆分、容器化迁移、数据中台、自动开服、压测工具
-- **AI 实践**：AI 辅助编码、Prompt Engineering、代码审查、文档生成、研发知识库、Agent 工作流、AI 素材生成
+```text
+Role      : Java game server engineer
+Focus     : real-time backend, scalable architecture, automation, AI workflow
+Mindset   : make complex systems clearer, faster, and easier to evolve
+Exploring : AI-driven mini games, social growth loops, lightweight validation
+```
 
-## 我关注的方向
+## What I Care About
 
-- 构建更轻量、更易扩展的游戏服务端框架，让业务开发更接近“声明协议 + 编写逻辑”。
-- 将 AI 引入日常研发流程，用于拆解需求、生成脚手架、补充测试、沉淀技术文档、生成美术资产和复盘线上问题。
-- 用自动化和可观测性提升研发反馈速度，减少重复沟通和人工操作。
-- 探索小团队如何借助 AI 获得更强的产品、技术和内容产出能力。
+- Designing maintainable game backend frameworks with clear protocols and predictable runtime behavior.
+- Using AI as a practical teammate for planning, coding, documentation, QA, knowledge capture, and visual asset exploration.
+- Turning repeated engineering work into tools, templates, scripts, and reusable team workflows.
+- Helping small teams move faster without giving up reliability, observability, or technical taste.
 
-## 最近在做
+## Tech Radar
 
-- 维护和打磨基于 **Netty + Protobuf + Spring Boot + Java 21** 的休闲游戏服务器框架。
-- 探索更轻量的游戏服务端开发体验：注解式消息处理、自动生成消息号、虚拟线程用户队列、共享队列和 Redis 分布式队列。
-- 探索 **AI 驱动、社交裂变型微信小游戏**：用 AI 辅助完成玩法拆解、策划配置、接口契约、QA 清单、视觉规范和素材生成。
-- 关注轻量后端、增长机制、数据验证和可信结算在小游戏中的落地方式。
+| Area | Keywords |
+| --- | --- |
+| Game Backend | WebSocket/TCP, Protobuf, message routing, combat validation, cross-server gameplay |
+| Java Stack | Java, Spring Boot, Netty, Dubbo, virtual threads |
+| Data & Infra | Redis, MySQL, PostgreSQL, TimescaleDB, ELK, Kubernetes, DevOps |
+| AI Workflow | Prompt Engineering, code review, docs generation, Agent workflow, AI asset generation |
+| Product Thinking | mini games, IAA, social growth, data validation, trusted settlement |
 
-## 联系方式
+## GitHub Pulse
 
-- Email: 985274229@qq.com
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ri3ck8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3ck8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ri3ck8&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## Currently Exploring
+
+- A lightweight **Netty + Protobuf + Spring Boot + Java 21** game server framework.
+- A smoother backend development model with annotation-driven message handlers, generated protocol IDs, user-level queues, and shared queue patterns.
+- An **AI-driven, social-growth-oriented WeChat mini game** workflow, using AI to assist product design, config planning, API contracts, QA checklists, visual direction, and asset generation.
+- Practical ways to combine lightweight backend architecture, growth validation, and trusted settlement in small-game experiments.
+
+## Contact
+
+<p>
+  <a href="mailto:985274229@qq.com">
+    <img src="https://img.shields.io/badge/Email-985274229%40qq.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22C55E,100:111827" alt="footer" />
+</p>
