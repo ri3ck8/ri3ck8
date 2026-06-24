@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,python,cs,js,ts,nodejs,docker,kubernetes,redis,mysql,postgres,linux,git,github" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,python,cs,js,ts,nodejs,docker,kubernetes,redis,mysql,postgres,linux,git" alt="技术栈" />
 </p>
 
 <p align="center">
@@ -15,15 +15,6 @@
   <img src="https://img.shields.io/badge/AI%20Native-agent%20workflow-22C55E?style=for-the-badge" alt="AI 原生" />
   <img src="https://img.shields.io/badge/Cloud%20Native-devops%20mindset-F59E0B?style=for-the-badge" alt="云原生" />
 </p>
-
-## 关于我
-
-```text
-角色     : Java 游戏服务端工程师
-关注     : 实时后端、可扩展架构、自动化工具、AI 工作流
-理念     : 让复杂系统更清晰、更高效、更容易演进
-探索     : AI 驱动小游戏、社交增长链路、轻量 MVP 验证
-```
 
 ## 我关注的方向
 
@@ -36,11 +27,10 @@
 
 | 方向 | 关键词 |
 | --- | --- |
-| 游戏后端 | WebSocket/TCP, Protobuf, 消息路由, 战斗校验, 跨服玩法 |
-| Java 技术栈 | Java, Spring Boot, Netty, Dubbo, 虚拟线程 |
-| 数据与基础设施 | Redis, MySQL, PostgreSQL, TimescaleDB, ELK, Kubernetes, DevOps |
-| AI 工作流 | Prompt Engineering, 代码审查, 文档生成, Agent 工作流, AI 素材生成 |
-| 产品思维 | 小游戏, IAA, 社交增长, 数据验证, 可信结算 |
+| Java 技术栈 | Java, Spring Boot, Netty, Dubbo |
+| 数据与基础设施 | Redis, MySQL, MongoDB, TimescaleDB, ELK, Kubernetes, DevOps |
+| AI 工作流 | AI Engineering, 代码审查, 文档生成, Agent 工作流 |
+| 产品思维 | 小游戏, IAA, 社交增长, 数据验证 |
 
 ## 最近在探索
 
