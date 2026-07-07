@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=3B82F6&center=true&vCenter=true&width=760&lines=Java+%7C+Netty;Game+%2B+Development;Building+lightweight+systems+for+fast+iteration" alt="动态介绍" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,redis,mongodb,kubernetes" alt="技术栈" />
 </p>
 
@@ -21,14 +17,6 @@
 | --- | --- |
 | Java 技术栈 | Java, Spring Boot, Netty, Dubbo, gRPC |
 | 数据与基础设施 | MySQL, Redis, MongoDB, ELK, Kubernetes |
-
-## 联系方式
-
-<p>
-  <a href="mailto:985274229@qq.com">
-    <img src="https://img.shields.io/badge/Email-985274229%40qq.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22C55E,100:111827" alt="页脚" />
