@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,python,cs,js,ts,nodejs,docker,kubernetes,redis,mysql,postgres,linux,git" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,redis,mongodb,kubernetes" alt="技术栈" />
 </p>
 
 <p align="center">
@@ -18,26 +18,15 @@
 
 ## 我关注的方向
 
-- 设计可维护的游戏服务端框架，用清晰协议和可预测运行时降低复杂度。
-- 把 AI 当作务实的工程伙伴，用于策划、编码、文档、QA、知识沉淀和视觉资产探索。
-- 将重复性的工程工作沉淀为工具、模板、脚本和可复用的团队流程。
-- 帮助小团队在保持稳定性、可观测性和技术品味的同时，更快完成产品验证。
+- 设计可维护的游戏服务端框架。把重复性工程工作转化为工具、模板、脚本与可复用的团队流程，有效降低系统复杂性。
+- 探索 AI 如何应用于策划、编码、文档、QA、知识沉淀等环节。
 
 ## 技术雷达
 
 | 方向 | 关键词 |
 | --- | --- |
 | Java 技术栈 | Java, Spring Boot, Netty, Dubbo |
-| 数据与基础设施 | Redis, MySQL, MongoDB, TimescaleDB, ELK, Kubernetes, DevOps |
-| AI 工作流 | AI Engineering, 代码审查, 文档生成, Agent 工作流 |
-| 产品思维 | 小游戏, IAA, 社交增长, 数据验证 |
-
-## 最近在探索
-
-- 基于 **Netty + Protobuf + Spring Boot + Java 21** 的轻量游戏服务端框架。
-- 更顺滑的服务端开发模式：注解式消息处理、协议号生成、用户级队列和共享队列模式。
-- **AI 驱动、偏社交增长的微信小游戏** 工作流，用 AI 辅助产品设计、配置规划、接口契约、QA 清单、视觉方向和素材生成。
-- 在小游戏实验中，将轻量后端架构、增长验证和可信结算结合起来的实践方式。
+| 数据与基础设施 | MySQL, Redis, MongoDB, ELK, Kubernetes |
 
 ## 联系方式
 
