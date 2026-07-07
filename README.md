@@ -10,12 +10,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,redis,mongodb,kubernetes" alt="技术栈" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Backend-real--time%20systems-2563EB?style=for-the-badge" alt="游戏后端" />
-  <img src="https://img.shields.io/badge/AI%20Native-agent%20workflow-22C55E?style=for-the-badge" alt="AI 原生" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-devops%20mindset-F59E0B?style=for-the-badge" alt="云原生" />
-</p>
-
 ## 我关注的方向
 
 - 设计可维护的游戏服务端框架。把重复性工程工作转化为工具、模板、脚本与可复用的团队流程，有效降低系统复杂性。
