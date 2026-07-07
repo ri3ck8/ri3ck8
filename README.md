@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=3B82F6&center=true&vCenter=true&width=760&lines=Java+%7C+Netty+%7C+Protobuf+%7C+Cloud+Native;Game+Backend+%2B+AI-assisted+Development;Building+lightweight+systems+for+fast+iteration" alt="动态介绍" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=3B82F6&center=true&vCenter=true&width=760&lines=Java+%7C+Netty;Game+%2B+Development;Building+lightweight+systems+for+fast+iteration" alt="动态介绍" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ## 我关注的方向
 
-- 设计可维护的游戏服务端框架。把重复性工程工作转化为工具、模板、脚本与可复用的团队流程，有效降低系统复杂性。
+- 设计可维护的游戏服务端框架。把重复性工程转化为工具与模板，有效降低系统复杂性。
 - 探索 AI 如何应用于策划、编码、文档、QA、知识沉淀等环节。
 
 ## 技术雷达
 
 | 方向 | 关键词 |
 | --- | --- |
-| Java 技术栈 | Java, Spring Boot, Netty, Dubbo |
+| Java 技术栈 | Java, Spring Boot, Netty, Dubbo, gRPC |
 | 数据与基础设施 | MySQL, Redis, MongoDB, ELK, Kubernetes |
 
 ## 联系方式
