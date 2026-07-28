@@ -8,25 +8,25 @@
 
 ## 关于我
 
-专注于游戏服务端与分布式系统工程，持续探索如何用可靠的基础设施和 AI 工具提升游戏研发效率。
+专注于游戏服务端与分布式系统工程，致力于通过可靠的云原生基础设施与 AI 工具，提升游戏研发效率、系统稳定性和工程质量。
 
-- 构建可维护的游戏服务端框架，将重复工程沉淀为工具与模板。
-- 关注服务治理、可观测性、高并发网络通信及云原生游戏服务器。
-- 探索 AI 在策划、编码、文档、QA 与知识沉淀中的实际应用。
+- 构建高可用、易扩展的云原生游戏服务器架构，重点关注服务治理与高并发网络通信。
+- 建设标准化、易接入的通用中台服务，降低业务接入与重复开发成本。
+- 完善高可用、可观测的基础设施体系，提升系统稳定性、故障定位与运行保障能力。
+- 探索 AI 在游戏策划、编码、测试及知识沉淀等研发环节中的实际应用。
 
 ## 技术雷达
 
 | 方向 | 关键词 |
 | --- | --- |
-| 游戏服务端 | Java、Spring Boot、Netty、RPC、分布式系统 |
-| 数据与基础设施 | MySQL、Redis、MongoDB、ELK、Kubernetes |
-| 服务治理与诊断 | Sentinel、Nacos、Dubbo、Arthas |
-| 游戏服务器云原生 | Agones、Kubernetes、弹性扩缩容 |
+| 游戏服务端架构 | Java、Netty、Spring Boot、RPC、分布式系统 |
+| 服务治理与中间件 | Dubbo、Nacos、Sentinel、Arthas |
+| 数据存储与可观测性 | MySQL、Redis、MongoDB、ELK |
+| 云原生游戏服务器 | Kubernetes、Agones、弹性扩缩容、服务编排 |
 
 ## 正在关注
 
-- 服务发现、配置管理与流量治理
-- 基于 Kubernetes 的多人游戏服务器部署与扩缩容
+- 基于 Kubernetes 与 Agones 构建云原生游戏战斗平台，探索战斗服编排、弹性扩缩容、会话调度与高可用治理。
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22C55E,100:111827" alt="页脚" />
