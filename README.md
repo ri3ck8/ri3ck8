@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,go,mysql,redis,mongodb,docker,kubernetes,linux" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,mongodb,elasticsearch,prometheus,grafana,kubernetes,docker,linux,py,go" alt="技术栈" />
 </p>
 
 ## 关于我
