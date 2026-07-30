@@ -20,7 +20,7 @@
 | 方向 | 关键词 |
 | --- | --- |
 | 游戏服务端架构 | Java、Netty、Spring Boot、RPC、分布式系统 |
-| 服务治理与中间件 | Dubbo、Nacos、Sentinel、Arthas |
+| 服务治理与中间件 | Nacos、Dubbo、Sentinel、Arthas |
 | 数据存储与可观测性 | MySQL、Redis、MongoDB、ELK |
 | 云原生游戏服务器 | Kubernetes、Agones、弹性扩缩容、服务编排 |
 
