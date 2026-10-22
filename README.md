@@ -1,9 +1,9 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111827,45:2563EB,100:22C55E&text=Game%20Server%20%26%20Cloud%20Infrastructure&fontColor=FFFFFF&fontSize=30&fontAlignY=35&animation=fadeIn" alt="Game Server & Cloud Infrastructure" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111827,45:2563EB,100:22C55E&text=Game%20Server%20Engineer&fontColor=FFFFFF&fontSize=34&fontAlignY=35&animation=fadeIn" alt="Game Server & Cloud Infrastructure" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,mongodb,elasticsearch,prometheus,grafana,kubernetes,docker,linux,py,go,aws,terraform,githubactions" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,mongodb,elasticsearch,prometheus,grafana,kubernetes,docker,linux,py,go,aws,terraform" alt="技术栈" />
 </p>
 
 ## 关于我
