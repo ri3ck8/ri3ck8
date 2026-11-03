@@ -29,10 +29,9 @@
 
 ## 正在探索
 
-- **IaC 工程化：** 基于 AWS CDK 将网络、计算、数据库、消息队列和监控等基础设施纳入代码管理，探索可复用的 Stack、环境隔离与自动化部署。
-- **云原生战斗平台：** 基于 Kubernetes 与 Agones 探索战斗服生命周期管理、会话分配、弹性扩缩容及故障恢复。
-- **多云与平台化：** 研究 AWS 托管服务与云原生开源方案的适用边界，探索国内外环境的部署标准化及云厂商解耦。
 - **AI for Engineering：** 探索 AI 在研发工作流、测试自动化、故障定位与技术知识管理中的实际应用。
+- **云原生战斗平台：** 基于 Kubernetes 与 Agones 探索战斗服生命周期管理、会话分配、弹性扩缩容及故障恢复。
+- **IaC 工程化：** 基于 AWS CDK 将网络、计算、数据库、消息队列和监控等基础设施纳入代码管理，探索可复用的 Stack、环境隔离与自动化部署。
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22C55E,100:111827" alt="页脚" />
